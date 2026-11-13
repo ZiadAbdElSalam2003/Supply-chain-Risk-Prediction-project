@@ -1,0 +1,337 @@
+{
+    "market_regions": {
+        "Africa": [
+            "Central Africa",
+            "East Africa",
+            "North Africa",
+            "Southern Africa",
+            "West Africa"
+        ],
+        "Europe": [
+            "Eastern Europe",
+            "Northern Europe",
+            "Southern Europe",
+            "Western Europe"
+        ],
+        "LATAM": [
+            "Caribbean",
+            "Central America",
+            "South America"
+        ],
+        "Pacific Asia": [
+            "Central Asia",
+            "Eastern Asia",
+            "Oceania",
+            "South Asia",
+            "Southeast Asia",
+            "West Asia"
+        ],
+        "USCA": [
+            "Canada",
+            "East of USA",
+            "South of  USA ",
+            "US Center ",
+            "West of USA "
+        ]
+    },
+    "region_countries": {
+        "Pacific Asia": {
+            "Southeast Asia": [
+                "Camboya",
+                "Filipinas",
+                "Indonesia",
+                "Laos",
+                "Malasia",
+                "Myanmar (Birmania)",
+                "Singapur",
+                "Tailandia",
+                "Vietnam"
+            ],
+            "South Asia": [
+                "Afganistán",
+                "Bangladés",
+                "Bután",
+                "India",
+                "Irán",
+                "Nepal",
+                "Pakistán",
+                "Sri Lanka"
+            ],
+            "Oceania": [
+                "Australia",
+                "Nueva Zelanda",
+                "Papúa Nueva Guinea"
+            ],
+            "Eastern Asia": [
+                "China",
+                "Corea del Sur",
+                "Hong Kong",
+                "Japón",
+                "Mongolia",
+                "Taiwán"
+            ],
+            "West Asia": [
+                "Arabia Saudí",
+                "Armenia",
+                "Azerbaiyán",
+                "Baréin",
+                "Emiratos Árabes Unidos",
+                "Georgia",
+                "Irak",
+                "Israel",
+                "Jordania",
+                "Kuwait",
+                "Líbano",
+                "Omán",
+                "Qatar",
+                "Siria",
+                "Turquía",
+                "Yemen"
+            ],
+            "Central Asia": [
+                "Kazajistán",
+                "Kirguistán",
+                "Tayikistán",
+                "Turkmenistán",
+                "Uzbekistán"
+            ]
+        },
+        "USCA": {
+            "West of USA ": [
+                "Estados Unidos"
+            ],
+            "US Center ": [
+                "Estados Unidos"
+            ],
+            "East of USA": [
+                "Estados Unidos"
+            ],
+            "Canada": [
+                "Canada"
+            ],
+            "South of  USA ": [
+                "Estados Unidos"
+            ]
+        },
+        "Africa": {
+            "West Africa": [
+                "Benín",
+                "Burkina Faso",
+                "Costa de Marfil",
+                "Ghana",
+                "Guinea",
+                "Guinea-Bissau",
+                "Liberia",
+                "Mali",
+                "Mauritania",
+                "Nigeria",
+                "Níger",
+                "República de Gambia",
+                "Senegal",
+                "Sierra Leona",
+                "Sáhara Occidental",
+                "Togo"
+            ],
+            "Central Africa": [
+                "Angola",
+                "Camerún",
+                "Chad",
+                "Gabón",
+                "Guinea Ecuatorial",
+                "República Centroafricana",
+                "República Democrática del Congo",
+                "República del Congo"
+            ],
+            "North Africa": [
+                "Argelia",
+                "Egipto",
+                "Libia",
+                "Marruecos",
+                "Sudán",
+                "Túnez"
+            ],
+            "East Africa": [
+                "Burundi",
+                "Eritrea",
+                "Etiopía",
+                "Kenia",
+                "Madagascar",
+                "Mozambique",
+                "Ruanda",
+                "Somalia",
+                "Sudán del Sur",
+                "Tanzania",
+                "Uganda",
+                "Yibuti",
+                "Zambia",
+                "Zimbabue"
+            ],
+            "Southern Africa": [
+                "Botsuana",
+                "Lesoto",
+                "Namibia",
+                "Suazilandia",
+                "SudAfrica"
+            ]
+        },
+        "Europe": {
+            "Western Europe": [
+                "Alemania",
+                "Austria",
+                "Bélgica",
+                "Francia",
+                "Luxemburgo",
+                "Países Bajos",
+                "Suiza"
+            ],
+            "Northern Europe": [
+                "Dinamarca",
+                "Estonia",
+                "Finlandia",
+                "Irlanda",
+                "Lituania",
+                "Noruega",
+                "Reino Unido",
+                "Suecia"
+            ],
+            "Southern Europe": [
+                "Albania",
+                "Bosnia y Herzegovina",
+                "Chipre",
+                "Croacia",
+                "Eslovenia",
+                "España",
+                "Grecia",
+                "Italia",
+                "Macedonia",
+                "Montenegro",
+                "Portugal"
+            ],
+            "Eastern Europe": [
+                "Bielorrusia",
+                "Bulgaria",
+                "Eslovaquia",
+                "Hungría",
+                "Moldavia",
+                "Polonia",
+                "República Checa",
+                "Rumania",
+                "Rusia",
+                "Serbia",
+                "Ucrania"
+            ]
+        },
+        "LATAM": {
+            "Central America": [
+                "Belice",
+                "Costa Rica",
+                "El Salvador",
+                "Guatemala",
+                "Honduras",
+                "México",
+                "Nicaragua",
+                "Panamá"
+            ],
+            "Caribbean": [
+                "Barbados",
+                "Cuba",
+                "Guadalupe",
+                "Haití",
+                "Jamaica",
+                "Martinica",
+                "República Dominicana",
+                "Trinidad y Tobago"
+            ],
+            "South America": [
+                "Argentina",
+                "Bolivia",
+                "Brasil",
+                "Chile",
+                "Colombia",
+                "Ecuador",
+                "Guayana Francesa",
+                "Guyana",
+                "Paraguay",
+                "Perú",
+                "Surinam",
+                "Uruguay",
+                "Venezuela"
+            ]
+        }
+    },
+    "department_categories": {
+        "Apparel": [
+            "Baby ",
+            "Children's Clothing",
+            "Cleats",
+            "Crafts",
+            "Men's Clothing",
+            "Men's Footwear",
+            "Women's Clothing"
+        ],
+        "Book Shop": [
+            "Books "
+        ],
+        "Discs Shop": [
+            "CDs ",
+            "DVDs",
+            "Music",
+            "Video Games"
+        ],
+        "Fan Shop": [
+            "Camping & Hiking",
+            "Fishing",
+            "Hunting & Shooting",
+            "Indoor/Outdoor Games",
+            "Toys",
+            "Water Sports"
+        ],
+        "Fitness": [
+            "Baseball & Softball",
+            "Basketball",
+            "Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Sporting Goods",
+            "Tennis & Racquet"
+        ],
+        "Footwear": [
+            "As Seen on  TV!",
+            "Boxing & MMA",
+            "Cardio Equipment",
+            "Electronics",
+            "Fitness Accessories",
+            "Strength Training"
+        ],
+        "Golf": [
+            "Girls' Apparel",
+            "Shop By Sport",
+            "Women's Apparel"
+        ],
+        "Health and Beauty ": [
+            "Health and Beauty"
+        ],
+        "Outdoors": [
+            "Accessories",
+            "Electronics",
+            "Garden",
+            "Golf Apparel",
+            "Golf Bags & Carts",
+            "Golf Balls",
+            "Golf Gloves",
+            "Golf Shoes",
+            "Kids' Golf Clubs",
+            "Men's Golf Clubs",
+            "Trade-In",
+            "Women's Golf Clubs"
+        ],
+        "Pet Shop": [
+            "Pet Supplies"
+        ],
+        "Technology": [
+            "Cameras ",
+            "Computers",
+            "Consumer Electronics"
+        ]
+    }
+}
