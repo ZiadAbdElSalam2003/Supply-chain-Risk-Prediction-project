@@ -497,7 +497,7 @@ with header_left:
         "This application predicts the likelihood of an order being delivered later than its scheduled delivery date, based on order characteristics, shipping context, and commercial variables."
     )
 with header_right:
-    if IMAGE_PATH != "YOUR_IMAGE_PATH_HERE" and os.path.exists(IMAGE_PATH):
+    if IMAGE_PATH != "images\supply.jpg" and os.path.exists(IMAGE_PATH):
         st.image(IMAGE_PATH, use_container_width=True)
     else:
         st.markdown("""
