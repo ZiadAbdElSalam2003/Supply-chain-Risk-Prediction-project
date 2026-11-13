@@ -414,7 +414,7 @@ MODEL_PATH = "models/late_delivery_pipeline.pkl"
 THRESHOLD_PATH = "models/decision_threshold.pkl"
 OPTIONS_PATH = os.path.join(BASE_DIR, "dropdown_options.json")
 # Replace this with your Supply Chain image path
-IMAGE_PATH = r"images\supply.jpg"
+IMAGE_PATH = os.path.join(BASE_DIR, "images", "supply.jpg")
 DEFAULT_COUNTRY = "Egipto"
 DEFAULT_DEPARTMENT = "Apparel"
 @st.cache_resource
@@ -497,7 +497,7 @@ with header_left:
         "This application predicts the likelihood of an order being delivered later than its scheduled delivery date, based on order characteristics, shipping context, and commercial variables."
     )
 with header_right:
-    if IMAGE_PATH != "images\supply.jpg" and os.path.exists(IMAGE_PATH):
+    if os.path.exists(IMAGE_PATH):
         st.image(IMAGE_PATH, use_container_width=True)
     else:
         st.markdown("""
