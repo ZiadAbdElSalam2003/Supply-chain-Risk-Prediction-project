@@ -414,7 +414,7 @@ MODEL_PATH = "models/late_delivery_pipeline.pkl"
 THRESHOLD_PATH = "models/decision_threshold.pkl"
 OPTIONS_PATH = os.path.join(BASE_DIR, "dropdown_options.json")
 # Replace this with your Supply Chain image path
-IMAGE_PATH = r"C:\Users\tsarget\OneDrive\Desktop\nextgen project\images\supply.jpg"
+IMAGE_PATH = r"images\supply.jpg"
 DEFAULT_COUNTRY = "Egipto"
 DEFAULT_DEPARTMENT = "Apparel"
 @st.cache_resource
