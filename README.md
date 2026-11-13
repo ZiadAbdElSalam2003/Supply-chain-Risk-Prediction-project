@@ -1,4 +1,12 @@
-# Late Delivery Risk Prediction
+<p align="center">
+  <img src="images/supply.jpg" alt="Global supply chain and logistics operations" width="100%">
+</p>
+
+<h1 align="center">Late Delivery Risk Prediction</h1>
+
+<p align="center">
+  A machine learning solution for identifying at-risk shipments and supporting proactive supply-chain decisions.
+</p>
 
 ## 1. Executive Overview
 This project develops a supply-chain risk prediction system designed to detect orders likely to be delivered late before operational issues escalate. The objective is to support decision-makers with a proactive warning mechanism that helps prioritize at-risk shipments, reduce service disruption, and improve delivery reliability.
